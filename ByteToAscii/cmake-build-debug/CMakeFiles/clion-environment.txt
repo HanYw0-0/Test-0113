@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@E:\Clion\MinGw64
+Options: 
+
+Options:
